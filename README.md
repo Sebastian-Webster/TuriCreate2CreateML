@@ -6,6 +6,10 @@ Have a Turi Create CSV file that you want to convert to a CreateML JSON file? Th
 
 Node.js 15.0.0+ or Bun 1.0+
 
+## How to run
+
+Run ```node index.js``` in the terminal and answer the questions that are asked. The questions that are asked are listed below with explanations of what the questions are asking for.
+
 ## Command line questions
 
 - ```Input file```: This is asking you for the path of the Turi Create CSV file
